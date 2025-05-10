@@ -91,7 +91,7 @@ I’m **Asier Grandes**, a Computer Science Engineering student specializing in 
 ## 🔍 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asiergrandes&show_icons=true&theme=tokyonight)  
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asiergrandes&layout=compact&theme=tokyonight) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asiergrandes&layout=compact&theme=tokyonight)
 
 
 ---
