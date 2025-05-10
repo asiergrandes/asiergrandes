@@ -175,7 +175,7 @@ Second quarter
 ![asiergrandes's Github stats](https://github-readme-stats.vercel.app/api?username=asiergrandes&show_icons=true)
 
 
-[-1]: https://www.facebook.com/Austin.Lee.9173/](https://www.linkedin.com/in/asier-grandes-orons-b66b4827a/)
+[-1]: https://www.linkedin.com/in/asier-grandes-orons-b66b4827a/
 [0]: https://www.instagram.com/asiergrandes/
 [1]: https://www.zhihu.com/people/lizheming
 [2]: https://segmentfault.com/u/lizheming
