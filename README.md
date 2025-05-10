@@ -1,182 +1,78 @@
-## 👋 Introduction
+# 👋 Hello, I'm Asier Grandes
 
+![status](https://img.shields.io/badge/status-up-brightgreen)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asiergrandes&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asiergrandes&layout=compact&theme=tokyonight)
 
-![status](https://img.shields.io/badge/status-up-brightgreen) 
+I’m **Asier Grandes**, a Computer Science Engineering student specializing in Management and Information Systems at the **University of the Basque Country**.
 
-Hi guys, I'm **Asier Grandes**. I am a Computer Science Engineering student in Management and Information Systems from teh University of the Basque Country.  
+---
 
+## 📫 Connect With Me
 
-## 📫 Contact Me on Social Media
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asier-grandes-orons-b66b4827a/)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/asiergrandes/)
 
-[LinkedIn][-1] | [Instagram][0]
+---
 
+## 🛠️ Tech Stack & Tools
 
-<img src="img\pl\python.png"
-width="32"
-height="32"
-title="Python">
-<img src="img\pl\java.png"
-width="32"
-height="32"
-title="Java">
-<img src="img\pl\php.png"
-width="32"
-height="32"
-title="PHP">
-<img src="img\pl\js.png"
-width="32"
-height="32"
-title="JavaScript">
-<img src="img\db\mysql.png"
-width="32"
-height="32"
-title="MySQL">
-<img src="img\db\mongodb.png"
-width="32"
-height="32"
-title="MongoDB">
-<img src="img\sys\docker.png"
-width="32"
-height="32"
-title="Docker">
-<img src="img\cs\burpsuit.png"
-width="32"
-height="32"
-title="Burpsuit">
-<img src="img\cs\nmap.png"
-width="32"
-height="32"
-title="NMAP">
-<img src="img\cs\wireshark.png"
-width="32"
-height="32"
-title="Wireshark">
-<img src="img\cs\zap.png"
-width="32"
-height="32"
-title="ZAP">
+**Languages & Frameworks**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32" title="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" title="JavaScript"/>
 
+**Databases**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" title="MongoDB"/>
 
-## 📂 Repos
+**Tools & Cybersecurity**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" title="Docker"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-ff5722?logo=burpsuite&logoColor=white" title="Burp Suite"/>
+<img src="https://img.shields.io/badge/Nmap-004688?logo=gnubash&logoColor=white" title="Nmap"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" title="Wireshark"/>
+<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?logo=owasp&logoColor=white" title="OWASP ZAP"/>
 
-`
-<details>
-<summary>👨‍🎓 University</summary>
-<details>
-<summary> First </summary>
+---
 
-First quarter
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=PB-ADA&show_icons=true&theme=transparent)](https://github.com/Xabierland/PB-ADA)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=PB-Python&show_icons=true&theme=transparent)](https://github.com/Xabierland/PB-Python)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=PDSD-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/PDSD-Proyecto)
-
-Second quarter
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=PMOO&show_icons=true&theme=transparent)](https://github.com/Xabierland/PMOO)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=EC&show_icons=true&theme=transparent)](https://github.com/Xabierland/EC)
-
-</details>
-<details>
-<summary> Second </summary>
-
-First quarter
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=EDA&show_icons=true&theme=transparent)](https://github.com/Xabierland/EDA)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=EDA-LAB&show_icons=true&theme=transparent)](https://github.com/Xabierland/EDA-LAB)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=R&show_icons=true&theme=transparent)](https://github.com/Xabierland/R)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=AC&show_icons=true&theme=transparent)](https://github.com/Xabierland/AC)
-
-Second quarter
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=IS&show_icons=true&theme=transparent)](https://github.com/Xabierland/IS)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=IS-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/IS-Proyecto)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=BD-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/DB-Proyecto)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ISO&show_icons=true&theme=transparent)](https://github.com/Xabierland/ISO)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ISO-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/ISO-Proyecto)
-
-</details>
+<!--
+## 📂 University Repositories
 
 <details>
-<summary> Third </summary>
+  <summary>🎓 University Projects by Year</summary>
 
-First quarter
+  <details>
+    <summary>🧑‍🎓 First Year</summary>
+    - First Quarter  
+    - Second Quarter
+  </details>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SGSSI&show_icons=true&theme=transparent)](https://github.com/Xabierland/SGSSI)
+  <details>
+    <summary>🧑‍🎓 Second Year</summary>
+    - First Quarter  
+    - Second Quarter
+  </details>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SGSSI-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/SGSSI-Proyecto)
+  <details>
+    <summary>🧑‍🎓 Third Year</summary>
+    - First Quarter  
+    - Second Quarter
+  </details>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ADSI&show_icons=true&theme=transparent)](https://github.com/Xabierland/ADSI)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ADSI-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/ADSI-Proyecto)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SGI&show_icons=true&theme=transparent)](https://github.com/Xabierland/SGI)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=OP&show_icons=true&theme=transparent)](https://github.com/Xabierland/OP)
-
-Second quarter
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ABD&show_icons=true&theme=transparent)](https://github.com/Xabierland/ABD)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SW&show_icons=true&theme=transparent)](https://github.com/Xabierland/SW)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SAD&show_icons=true&theme=transparent)](https://github.com/Xabierland/SAD)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SAD-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/SAD-Proyecto)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=GP&show_icons=true&theme=transparent)](https://github.com/Xabierland/GP)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SGE&show_icons=true&theme=transparent)](https://github.com/Xabierland/SGE)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=SGE-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/SGE-Proyecto)
+  <details>
+    <summary>🧑‍🎓 Fourth Year</summary>
+    - First Quarter  
+    - Second Quarter
+  </details>
 
 </details>
-<details>
-<summary> Fourth </summary>
+-->
 
-First quarter
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=AS&show_icons=true&theme=transparent)](https://github.com/Xabierland/AS)
+## 🔍 GitHub Activity
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=AS-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/AS-Proyecto)
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=asiergrandes&theme=github)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=TIA&show_icons=true&theme=transparent)](https://github.com/Xabierland/TIA)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=TIA-Practicas&show_icons=true&theme=transparent)](https://github.com/Xabierland/TIA-Practicas)
-
-Second quarter
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=DAS&show_icons=true&theme=transparent)](https://github.com/Xabierland/DAS)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=DAS-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/DAS-Proyecto)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=DAWE&show_icons=true&theme=transparent)](https://github.com/Xabierland/DAWE)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=DAWE-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/DAWE-Proyecto)
-
-</details>
-</details>
-
-´
- 
-## Open Source Work Stats
-
-
-![asiergrandes's Github stats](https://github-readme-stats.vercel.app/api?username=asiergrandes&show_icons=true)
-
-
-[-1]: https://www.linkedin.com/in/asier-grandes-orons-b66b4827a/
-[0]: https://www.instagram.com/asiergrandes/
-[1]: https://www.zhihu.com/people/lizheming
-[2]: https://segmentfault.com/u/lizheming
-[3]: https://www.v2ex.com/member/lizheming
+---
