@@ -1,8 +1,7 @@
 # 👋 Hello, I'm Asier Grandes
 
 ![status](https://img.shields.io/badge/status-up-brightgreen)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asiergrandes&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asiergrandes&layout=compact&theme=tokyonight)
+
 
 I’m **Asier Grandes**, a Computer Science Engineering student specializing in Management and Information Systems at the **University of the Basque Country**.
 
@@ -70,6 +69,9 @@ I’m **Asier Grandes**, a Computer Science Engineering student specializing in 
 -->
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asiergrandes&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asiergrandes&layout=compact&theme=tokyonight)
 
 ## 🔍 GitHub Activity
 
