@@ -11,6 +11,8 @@ I’m **Asier Grandes**, a Computer Science Engineering student specializing in 
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asier-grandes-orons-b66b4827a/)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/asiergrandes/)
+- [![Email](mailto:agrandes2004@gmail.com)
+
 
 ---
 
