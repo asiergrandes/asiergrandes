@@ -90,9 +90,6 @@ I’m **Asier Grandes**, a Computer Science Engineering student specializing in 
 
 ---
 
-## 🔍 GitHub Activity
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asiergrandes&layout=compact&theme=dracula)
 
 
 ---
